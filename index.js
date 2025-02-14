@@ -16,3 +16,4 @@ function calculate(fun, a, b){
 }
 console.log(calculate( multiply, 5, sum))
 // console.log(10(1, 6))
+
